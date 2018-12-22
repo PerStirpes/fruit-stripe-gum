@@ -1,0 +1,9 @@
+{
+  "name": "stripe",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {},
+  "repository": "git@github.com:PerStirpes/fruit-stripe-gum.git",
+  "author": "Matt Barraza-Carl <PerStirpes@users.noreply.github.com>",
+  "license": "MIT"
+}
